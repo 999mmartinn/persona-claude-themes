@@ -1,0 +1,8 @@
+{
+  "name": "persona-claude-themes",
+  "owner": { "name": "999mmartinn" },
+  "plugins": [
+    { "name": "phantom-red", "source": "./phantom-red", "description": "Persona 5-inspired: jet black, blood red, white slashes and a halftone collage backdrop." },
+    { "name": "midnight-static", "source": "./midnight-static", "description": "Persona 4-inspired: midnight black, electric yellow, TV static and rolling fog." }
+  ]
+}
